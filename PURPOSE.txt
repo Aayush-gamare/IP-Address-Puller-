@@ -1,0 +1,4 @@
+The  purpose of ip puller is for network and traffic analyzing . it also helps to know any potential risks 
+in network and helps finding its vulnereblity
+
+THE PURPOSE OF IP PULLER IS SOLELY FOR EDUCATIONAL PURPOSE
